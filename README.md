@@ -1,6 +1,6 @@
 # RxTest
 
-Pruebas RxJava (rxjava-1.0.11.jar)
+Pruebas con RxJava para mostrar el uso de las clases Observable y Subscriber.
 
 Dependencia maven
 
